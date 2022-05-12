@@ -13,3 +13,6 @@ Mi primer bd echa en Postgresql
 
 
 ![image](https://user-images.githubusercontent.com/99162884/168024132-9028f286-4b6e-48b5-8a40-9e9fbbe57ebf.png)
+
+
+![image](https://user-images.githubusercontent.com/99162884/168024286-4862db60-e764-4466-9060-22072dd25972.png)
