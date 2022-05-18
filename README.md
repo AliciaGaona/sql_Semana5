@@ -28,3 +28,12 @@ __Mi primer bd echa en Postgresql__
 
 
 ![image](https://user-images.githubusercontent.com/99162884/168024286-4862db60-e764-4466-9060-22072dd25972.png)
+
+
+
+## Comandos
+
+Dede línea de comando ![image](https://user-images.githubusercontent.com/99162884/168950657-e7a77477-176f-4720-b173-d6cdb0b92a07.png)
+
+|Comando|Acción1
+| \l|ver todas las tablas|
