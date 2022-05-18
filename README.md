@@ -36,18 +36,21 @@ __Mi primer bd echa en Postgresql__
 Dede línea de comando ![image](https://user-images.githubusercontent.com/99162884/168950657-e7a77477-176f-4720-b173-d6cdb0b92a07.png)
 
 
- \l - ver todas las tablas locales
+ - 
  
- create database NombreBaseDatos; - crear nueva Base de datos
- 
- \dt - ver todas las tablas creadas
- 
- \c Nombre; -selecciona BD creada
- 
- CREATE TABLE explorers(Ctipo campo); - crear tabla
+
+ - 
  
 
  
+| Comando | Acción|
+| ------------ | ------- |
+|  \l         | ver todas las tablas locales |
+| create database NombreBaseDatos; | crear nueva Base de datos |
+|  \dt      | ver todas las tablas creadas  |
+| \c Nombre;   |  selecciona BD creada  |
+|  CREATE TABLE explorers(Ctipo campo);  | crear tabla  |
+
  
  
  
