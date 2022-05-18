@@ -36,12 +36,6 @@ __Mi primer bd echa en Postgresql__
 Dede línea de comando ![image](https://user-images.githubusercontent.com/99162884/168950657-e7a77477-176f-4720-b173-d6cdb0b92a07.png)
 
 
- - 
- 
-
- - 
- 
-
  
 | Comando | Acción|
 | ------------ | ------- |
