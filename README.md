@@ -1,13 +1,14 @@
-# __POSTGRESQL__
-
-
-## sql_Semana5
+# __POSTGRESQL__ 
+ 
 
 __Mi primer bd echa en Postgresql__
 
 - [Documentación](https://www.postgresql.org/docs/)
 
 
+---
+
+- Creación de tablas:
 
 ![image](https://user-images.githubusercontent.com/99162884/168023370-21ecfb87-e793-4a21-95e5-8ea4fb04eb6a.png)
 
