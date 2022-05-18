@@ -49,7 +49,7 @@ Dede línea de comando ![image](https://user-images.githubusercontent.com/991628
 | create database NombreBaseDatos; | crear nueva Base de datos |
 |  \dt      | ver todas las tablas creadas  |
 | \c Nombre;   |  selecciona BD creada  |
-|  CREATE TABLE explorers(Ctipo campo);  | crear tabla  |
+|  CREATE TABLE explorers(tipo campo);  | crear tabla  |
 
  
  
