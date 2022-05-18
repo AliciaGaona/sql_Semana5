@@ -1,8 +1,8 @@
 # __POSTGRESQL__  
 
-
 ![PostgreSQL](https://user-images.githubusercontent.com/99162884/168939784-9b950068-120b-43f0-b1f9-e83ec0aaa993.png)
  
+ Gestor de bases de datos relacional y orientado a objetos
 
 - [Documentación](https://www.postgresql.org/docs/)
 
